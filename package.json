@@ -1,0 +1,19 @@
+{
+  "name": "swarmbot",
+  "version": "1.0.0",
+  "description": "Discord bot for The Swarm",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danofthedeep/swarmbot.git"
+  },
+  "author": "Dan Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danofthedeep/swarmbot/issues"
+  },
+  "homepage": "https://github.com/danofthedeep/swarmbot#readme"
+}
