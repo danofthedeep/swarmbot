@@ -1,2 +1,2 @@
 #!/bin/bash
-node bot.js > log &
+node bot.js > log & echo $! >> runbot.pid

@@ -1,4 +1,4 @@
-require('console-stamp')(console, '[HH:MM:ss.l]');
+require('console-stamp')(console, '[dd/mm/yyyy HH:MM:ss.l]');
 const Discord = require('discord.js')
 const bot = new Discord.Client();
 const token = 'MjIxNzEwNjI0NjQ2ODg5NDcy.CsGgHw.P0q4IAtUcx4W_yCkEr2O7QHm6og'
