@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/danofthedeep/swarmbot/issues"
   },
-  "homepage": "https://github.com/danofthedeep/swarmbot#readme"
+  "homepage": "https://github.com/danofthedeep/swarmbot#readme",
+  "dependencies": {
+    "console-stamp": "^0.2.4",
+    "discord.js": "^10.0.1",
+    "https": "^1.0.0"
+  }
 }
